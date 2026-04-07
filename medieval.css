@@ -1,0 +1,25 @@
+body {
+  background: #2c1b0f;
+  color: #f5e6c8;
+  font-family: "Georgia", serif;
+}
+
+header {
+  background: #3e2a1c;
+  padding: 20px;
+  text-align: center;
+  border-bottom: 3px solid gold;
+}
+
+h1 {
+  font-family: "Cinzel", serif;
+  letter-spacing: 2px;
+}
+
+.card {
+  background: #4b2e1e;
+  padding: 20px;
+  margin: 20px;
+  border: 2px solid #c9a66b;
+  border-radius: 10px;
+}
